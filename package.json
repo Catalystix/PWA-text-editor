@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "workbox-build": "^6.5.4"
+  }
+}
