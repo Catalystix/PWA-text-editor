@@ -51,6 +51,7 @@
  https://github.com/Catalystix/PWA-text-editor
 
  ![Alt text](./media/pwa-%20install.jpg)
+ ![Alt text](./media/pwa-%20install-2.jpg)
 
   
   ## Licensing
