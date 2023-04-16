@@ -46,6 +46,12 @@
   
   For a better understanding of the PWA functionality
  
+ https://pwa-text-editor-33.herokuapp.com/
+
+ https://github.com/Catalystix/PWA-text-editor
+
+ ![Alt text](./media/pwa-%20install.jpg)
+
   
   ## Licensing
    ![License: MIT](https://https://www.mit.edu/~amini/LICENSE.md) 
